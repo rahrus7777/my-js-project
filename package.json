@@ -1,0 +1,1 @@
+{"name":"js-queue-lab","version":"1.0.0","private":true,"type":"module","description":"An interactive JavaScript event-loop learning lab","license":"MIT","scripts":{"test":"node --test lessons.test.js"},"engines":{"node":">=20"}}
